@@ -1,0 +1,15 @@
+{
+  "name": "wonderland-engine-three",
+  "version": "1.0.0",
+  "description": "Utilities for integrating Three.js with Wonderland Engine.",
+  "main": "three-to-wl-mesh.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@wonderlandengine/api": "^1.0.0",
+    "three": "^0.151.3"
+  }
+}
