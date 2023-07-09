@@ -1,4 +1,4 @@
-# Wonderland Engine - Three.js Integratoin
+# Wonderland Engine - Three.js Integration
 
 Utilities for integrating Three.js with Wonderland Engine.
 
@@ -9,7 +9,7 @@ integrate trivially, the community and ecosystem around Three.js is
 absolutely massive.
 
 To be able to use some of the utilities from Three.js, this repository
-aims to achieve conversion utilites where possible.
+aims to achieve conversion utilities where possible.
 
 ## Contents
 
@@ -18,6 +18,8 @@ Geometry to a Wonderland Engine Mesh.
 
 `example/js/three-text-mesh.ts` demonstrates how to use that function
 with `FontLoader` and `TextGeometry`.
+
+![Wonderland Engine Three.js TextGeometry Example](https://github.com/Squareys/wonderland-engine-three/blob/main/images/wle-three-text-mesh.png)
 
 ## License
 
